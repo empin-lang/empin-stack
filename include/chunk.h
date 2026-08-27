@@ -6,6 +6,7 @@
 
 typedef enum
 {
+ OP_CONSTANT,
  OP_HALT,
 } EmpinOpCode;
 

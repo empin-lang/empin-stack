@@ -1,6 +1,6 @@
 #!/bin/sh
 TOKEN_FILE="$HOME/mytoken"
-PROJECT_DIR="$HOME/empin"
+PROJECT_DIR="$HOME/empin-stack"
 
 cd "$PROJECT_DIR" || exit 1
 
